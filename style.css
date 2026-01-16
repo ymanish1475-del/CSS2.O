@@ -1,10 +1,19 @@
-h2{
+*{
+    color:#00ff00;
+}
+
+/* h2{
     color:rgb(255, 8, 173);
 }
 h1{
     color:chartreuse;
 }
 button{
-    color:cornflowerblue;
-    background-color:;
+    color:rgb(243, 4, 51);
+    background-color: rgb(28, 247, 4);
 }
+body{
+    /* background-color: /*
+     background-color:rgb(2,255,0) aquamarine; */
+    /* background-color:#00ff00;
+/* } */ 
