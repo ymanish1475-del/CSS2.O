@@ -1,6 +1,7 @@
 body{
     /* text-align: right; */
     text-align: center;
+
 }
 h1{
     text-align: center;
@@ -11,3 +12,24 @@ h1{
 a{
     text-decoration: none;
 } 
+#m{
+    font-weight: 100;
+}
+#mm{
+    font-weight: bold;
+}
+#mmm{
+    font-weight: bolder;
+}
+
+#one{
+    font-family: cursive;
+}
+#two{
+    font-family: cursive;
+    line-height: 16px;
+    text-transform: capitalize;
+}
+a{
+    font-size: 96px;
+}
